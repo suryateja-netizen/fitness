@@ -1,0 +1,5 @@
+{
+  "name": "AI Fitness Tracker",
+  "description": "A modern fitness tracker web application that displays steps, calories to burn, and generates personalized diet plans based on your workout using the Gemini API.",
+  "requestFramePermissions": []
+}
